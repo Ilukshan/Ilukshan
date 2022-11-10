@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there, Iam Ilukshan 👋
 
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" height="" width="600" />  
   
 
-### <div align="center">I am Ilukshan, a learner from here,
+### <div align="center">A Learner from here,
 
 
 </div>  
